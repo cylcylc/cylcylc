@@ -1,5 +1,6 @@
+
 <h1 align="center" >
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=儒雅的曹曹曹祝您 happy every day!;console.log(%22❀我爱前端%2C%20前端爱我！❀%22)&center=true&size=27" alt="Typing SVG" />
+  <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/>    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=儒雅的曹曹曹祝您 happy every day!;console.log(%22❀我爱前端%2C%20前端爱我！❀%22)&center=true&size=27" alt="Typing SVG" /> <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/> 
 </h1>
 
 <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307130932973.gif" /><br>
@@ -11,6 +12,7 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
+<img align="right" width="288" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635353.gif" />
 
 🔭 I’m currently working on something cool.<br>
 🌱 I’m currently learning Everything I like.<br>
@@ -26,11 +28,12 @@
 -->
 
 </td></tr>
+
  <tr><td>
 <!-- 近期博客 -->
        
 ### 📃博客
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="288" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
 <!-- START_SECTION:blog -->
 
 ❀ <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
