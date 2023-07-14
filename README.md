@@ -2,8 +2,10 @@
 <h1 align="center" >
   <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/>    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=儒雅的曹曹曹祝您 happy every day!;console.log(%22it's my blessing to meet you%22)&center=true&size=27" alt="Typing SVG" /> <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/> 
 </h1>
+<div align="center">
+  <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307130932973.gif"  width="700"/>
+</div>
 
-<img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307130932973.gif" /><br>
 
 #  🙋 Hello
 
@@ -36,12 +38,12 @@
 <img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
 <!-- START_SECTION:blog -->
 
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/130323719?spm=1001.2014.3001.5501' target='_blank'>解决vue中父组件通过props向子组件传递数据，子组件接收不到</a><br>
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/126919648?spm=1001.2014.3001.5501' target='_blank'>vue3中ref的使用</a> <br>
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/130910133?spm=1001.2014.3001.5501' target='_blank'>浅拷贝和深拷贝</a><br>
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/124225221?spm=1001.2014.3001.5501' target='_blank'>css实现响应式布局</a><br>
-❀ <a href='https://blog.csdn.net/CYL_2021/article/details/126679340?spm=1001.2014.3001.5501' target='_blank'>js时间格式化和转换的方法</a><br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/130323719?spm=1001.2014.3001.5501' target='_blank'>解决vue中父组件通过props向子组件传递数据，子组件接收不到</a><br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/126919648?spm=1001.2014.3001.5501' target='_blank'>vue3中ref的使用</a> <br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/130910133?spm=1001.2014.3001.5501' target='_blank'>浅拷贝和深拷贝</a><br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/124225221?spm=1001.2014.3001.5501' target='_blank'>css实现响应式布局</a><br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/126679340?spm=1001.2014.3001.5501' target='_blank'>js时间格式化和转换的方法</a><br>
 <!-- END_SECTION:blog -->
 
 </td></tr>
