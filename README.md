@@ -12,12 +12,12 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-<img align="right" width="288" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635353.gif" />
+<img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635353.gif" />
 
 🔭 I’m currently working on something cool.<br>
 🌱 I’m currently learning Everything I like.<br>
 📫 How to reach me:2424335141@qq.com<br>
-😄 Read more about my CSDN: [come here](https://blog.csdn.net/CYL_2021?type=blog)<br>
+😄 Read more about my CSDN: <a href="https://blog.csdn.net/CYL_2021?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
  <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.&emsp;&emsp;</strong></p>
 <!--
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
@@ -33,7 +33,7 @@
 <!-- 近期博客 -->
        
 ### 📃博客
-<img align="right" width="288" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
+<img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
 <!-- START_SECTION:blog -->
 
 ❀ <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
@@ -74,5 +74,9 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 </div>
+<div align="center">
+  ![1312](https://activity-graph.herokuapp.com/graph?username=cylcylc&theme=github)
+</div>
+
 
 
