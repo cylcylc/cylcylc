@@ -37,7 +37,8 @@
 ### 📃博客
 <img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
 <!-- START_SECTION:blog -->
-
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/131883243?spm=1001.2014.3001.5502' target='_blank'>即时通信的方法和webSocket的具体使用</a><br> 
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/132003653?spm=1001.2014.3001.5502' target='_blank'>客户端实现阿里云OSS文件上传（分片上传，断点续传）</a><br> 
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/130323719?spm=1001.2014.3001.5501' target='_blank'>解决vue中父组件通过props向子组件传递数据，子组件接收不到</a><br>
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/126919648?spm=1001.2014.3001.5501' target='_blank'>vue3中ref的使用</a> <br>
