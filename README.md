@@ -1,4 +1,3 @@
-
 <h1 align="center" >
   <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/>    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=儒雅的曹曹曹祝您 happy every day!;console.log(%22it's my blessing to meet you%22)&center=true&size=27" alt="Typing SVG" /> <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131632576.gif"/> 
 </h1>
@@ -6,24 +5,22 @@
   <img src="https://gitee.com/cao-yanlei/image/raw/master/img/202307130932973.gif"  width="700"/>
 </div>
 
-
-
-
-
-
-#  🙋 Hello
+# 🙋 Hello
 
 <table>
 <tr><td>
 
 <!-- About me 关于我 -->
+
 ### 🤺 About Me
+
 <img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635353.gif" />
 
 🔭 I’m currently working on something cool.<br>
 🌱 I’m currently learning Everything I like.<br>
 📫 How to reach me:2424335141@qq.com<br>
 😄 Read more about my CSDN: <a href="https://blog.csdn.net/CYL_2021?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+
  <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.&emsp;&emsp;</strong></p>
 <!--
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
@@ -59,6 +56,7 @@
 <div align="center" >
 
 <!--  skill badge 技能徽章 -->
+
 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -80,7 +78,6 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
@@ -88,10 +85,4 @@
   </tr>
 </table>
 
-
  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cylcylc/cylcylc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cylcylc/cylcylc/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/cylcylc/cylcylc/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
