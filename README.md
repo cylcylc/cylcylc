@@ -22,13 +22,6 @@
 😄 Read more about my CSDN: <a href="https://blog.csdn.net/CYL_2021?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 
  <p><strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.&emsp;&emsp;</strong></p>
-<!--
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
--->
 
 </td></tr>
 
@@ -38,14 +31,15 @@
 ### 📃博客
 <img align="right" width="200" src="https://gitee.com/cao-yanlei/image/raw/master/img/202307131635913.gif" />
 <!-- START_SECTION:blog -->
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/135018726?spm=1001.2014.3001.5501' target='_blank'>移动端hover样式不消失&ios系统伪类:active不生效</a><br>
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/133312493?spm=1001.2014.3001.5501' target='_blank'>报错：元素隐式具有“any”类型，因为类型为“string”的表达式不能用于索引类型“{name:string；title:string；content:string；}。在类型......</a><br> 
+🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/132218281?spm=1001.2014.3001.5501' target='_blank'>Vue中DOM的更新为什么是异步的？</a><br>
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/131883243?spm=1001.2014.3001.5502' target='_blank'>即时通信的方法和webSocket的具体使用</a><br> 
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/132003653?spm=1001.2014.3001.5502' target='_blank'>客户端实现阿里云OSS文件上传（分片上传，断点续传）</a><br> 
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/127286364?spm=1001.2014.3001.5501' target='_blank'>vue3实现路由切换页面动画之transition</a><br> 
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/130323719?spm=1001.2014.3001.5501' target='_blank'>解决vue中父组件通过props向子组件传递数据，子组件接收不到</a><br>
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/126919648?spm=1001.2014.3001.5501' target='_blank'>vue3中ref的使用</a> <br>
 🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/130910133?spm=1001.2014.3001.5501' target='_blank'>浅拷贝和深拷贝</a><br>
-🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/124225221?spm=1001.2014.3001.5501' target='_blank'>css实现响应式布局</a><br>
-🌸 <a href='https://blog.csdn.net/CYL_2021/article/details/126679340?spm=1001.2014.3001.5501' target='_blank'>js时间格式化和转换的方法</a><br>
 <!-- END_SECTION:blog -->
 
 </td></tr>
